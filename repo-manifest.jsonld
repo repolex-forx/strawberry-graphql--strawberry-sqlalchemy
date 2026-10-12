@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/strawberry-graphql/strawberry-sqlalchemy/commit/e1ff9fd05906b6599af08829cd0cee41d6bced37",
       "git:hexsha": "e1ff9fd05906b6599af08829cd0cee41d6bced37",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/strawberry-graphql/strawberry-sqlalchemy/commit/6224df6f3f4a682e559e628476a1b82b4a43653b",
